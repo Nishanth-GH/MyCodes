@@ -1,2 +1,1 @@
-# MyCodes
-Personal codes
+This Project contains all my personal codes.
